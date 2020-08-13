@@ -15,7 +15,7 @@ License :: OSI Approved
 Programming Language :: Python :: 3.7 :: or higher
 Topic :: Software Development
 Operating System :: Microsoft :: Windows
-Operating System :: POSIX
+Operating System :: POSIX   
 Operating System :: Unix
 Operating System :: MacOS
 '''
