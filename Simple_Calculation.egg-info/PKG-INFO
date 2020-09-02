@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: Simple-Calculation
+Version: 0.0.1
+Summary: A small calculation package
+Home-page: https://github.com/pypa/sampleproject
+Author: Christopher Zapp
+Author-email: author@example.com
+License: UNKNOWN
+Description: # Simple Calculations!
+        
+        This is a simple calculation package.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
